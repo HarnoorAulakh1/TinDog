@@ -5,6 +5,9 @@
   border-color: #00bfff;
   border-width: 40px;
 }
+.bold {
+    font-weight: bolder;
+}
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
@@ -34,7 +37,4 @@
 .profile-img {
   height: 100px;
   border-radius: 50%;
-}
-.font-weight-bold {
-    font-weight: bolder;
 }
